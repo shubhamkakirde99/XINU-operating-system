@@ -1,2 +1,2 @@
 # XINU-operating-system
-This repo contains feature additions to the bare minimum XINU operating system for embedded systems
+Code will be pushed on 15th December 2024. Please wait till then
